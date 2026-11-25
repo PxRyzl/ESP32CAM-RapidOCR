@@ -1,0 +1,7 @@
+opencv-python
+numpy
+requests
+rapidocr
+onnxruntime
+gspread
+oauth2client
